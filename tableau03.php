@@ -9,7 +9,7 @@
          "19003" => array("", "", "Centre", "Centre", "Centre", "Centre", "Centre", "Centre", "Centre", "Centre", "Centre", "Stage", "Stage", "Stage", "Stage", "Stage", "Stage", "Stage", "Stage", "Stage", "Stage", "Stage", "Stage", "", "", "Validation") 
        );
     
-       var_dump(array_keys($a));
+       var_dump(array_keys($a)); //Retourne toutes les clés ou un ensemble des clés d'un tableau
 
        
       ?>
